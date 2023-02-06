@@ -3,7 +3,7 @@ This a program for a library which members and controller of library both can us
 members can see the books with their publish year
 they can add book to books list and they can make request
 controller can add books too and check the requests whenever he wants
-when he checks them members will get books they wanted in time request ordering if is possible //
+when he checks them members will get books they wanted in time request ordering if is possible 
 how it works :
 at first you will see a menu which asks you whether you are a controller or member 
 if you be a controller it will ask you the password and if be correct the menu for controller will be shown
